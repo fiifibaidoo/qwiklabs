@@ -1,0 +1,5 @@
+resources:
+- name: nodejs
+  type: nodejs.py
+  properties:
+    zone: us-central1-c
